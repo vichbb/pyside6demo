@@ -5,3 +5,8 @@
 ```bash
  pip install -r requirements.txt
 ```
+
+# 3.start
+```bash
+  python main.py
+```
